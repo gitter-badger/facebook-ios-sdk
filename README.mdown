@@ -1,6 +1,8 @@
 Facebook SDK for iOS
 ====================
 
+[![Join the chat at https://gitter.im/SunghanKim/facebook-ios-sdk](https://badges.gitter.im/SunghanKim/facebook-ios-sdk.svg)](https://gitter.im/SunghanKim/facebook-ios-sdk?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This open-source library allows you to integrate Facebook into your iOS app.
 
 Learn more about about the provided samples, documentation, integrating the SDK into your app, accessing source code, and more at https://developers.facebook.com/ios
